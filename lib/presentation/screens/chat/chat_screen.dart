@@ -18,7 +18,7 @@ class ChatScreen extends StatelessWidget {
           padding: EdgeInsets.all(4.0),
           child: CircleAvatar(
             backgroundImage: NetworkImage(
-                'https://images.hola.com/images/026b-12be71882404-b1eaff7fbef6-1000/horizontal-1200/jennifer-lawrence.jpg'),
+                'https://hips.hearstapps.com/hmg-prod/images/jennifer-lawrence-attends-the-anatomie-dune-chute-red-news-photo-1704650471.jpg?crop=1.00xw:0.668xh;0,0.0887xh&resize=1200:*'),
           ),
         ),
         title: const Text('Mi amor ❤️'),
